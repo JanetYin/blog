@@ -1,6 +1,6 @@
 ---
 title: TT-L-Readme
-category: Note
+category: Content
 tags:
   - Type Theory
 ---

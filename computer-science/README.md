@@ -1,6 +1,6 @@
 ---
 title: Note-Readme
-category: Note
+category: Content
 tags:
   - CS
 ---

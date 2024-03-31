@@ -1,6 +1,6 @@
 ---
 title: Opsys-Readme
-category: Note
+category: Content
 tags:
   - Operating System
 ---
