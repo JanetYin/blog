@@ -16,8 +16,12 @@ classroom name：[https://en.wikipedia.org/wiki/Lip%C3%B3t\_Fej%C3%A9r](https://
 * ZFC: [https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel\_set\_theory](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel\_set\_theory)
   * mathematics is built on first-order logic and the axioms of ZF set theory
 * Cantor: let's design a theory for collections
-  * we build collections using predicates = { x | s.t. x + 2 > 3 }, { x | x ∌ x }
+  * we build collections using predicates&#x20;
   * in type theory, the notion of predicate comes after collection
+
+```agda
+ { x | s.t. x + 2 > 3 }, { x | x ∌ x }
+```
 
 ### Model of Computation:
 
