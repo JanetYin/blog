@@ -1,3 +1,10 @@
+---
+title: Opsys-Readme
+category: Note
+tags:
+  - Operating System
+---
+
 # Operating System
 
 \[Lect1]\([https://jyywiki.cn/OS/2024/lect1.md](https://jyywiki.cn/OS/2024/lect1.md))
