@@ -1,6 +1,7 @@
 ---
 title: TT-Lec01
 category: Note
+date: 2024-03-03 19:10:17
 tags:
   - Type Theory
 ---
