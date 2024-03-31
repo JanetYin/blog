@@ -24,6 +24,10 @@ classroom name：[https://en.wikipedia.org/wiki/Lip%C3%B3t\_Fej%C3%A9r](https://
 ```
 
 
+```agda
+ { x | s.t. x + 2 > 3 }, { x | x ∌ x }
+```
+
 ### Model of Computation:
 
 1. Combinators by Moses Schönfinkel in 1920
