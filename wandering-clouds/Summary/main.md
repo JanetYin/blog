@@ -20,7 +20,7 @@ tags:
 之初：A collection of drafts.  
 
 ---
-
+![芙芙](/IMAGES/空空/FF.png)
 ---
 最近更新
 
