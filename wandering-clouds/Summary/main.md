@@ -12,6 +12,10 @@ tags:
 
 ---
 
+![芙芙](/IMAGES/空空/FF.png)
+
+---
+
 关于我：An informal self-introduction. Here is a more formal [one](https://janetyin.github.io/).  
 流云集：Drifting Clouds. Might be a diary.  
 碎月集：Some interesting experiences.  
@@ -19,9 +23,7 @@ tags:
 笔记: Study Notes.  
 之初：A collection of drafts.  
 
----
-![芙芙](/IMAGES/空空/FF.png)
----
+
 最近更新
 
 藏星：[梦里什么都有](https://www.yun37.me/posts/梦里什么都有)
