@@ -12,18 +12,16 @@ tags:
 
 ---
 
-关于我：An informal self-introduction. Here is a more formal [one](https://janetyin.github.io/).
+关于我：An informal self-introduction. Here is a more formal [one](https://janetyin.github.io/).  
 流云集：Drifting Clouds. Might be a diary.  
-碎月集：Some interesting experiences.
-藏星：Some very favorite collections.
-笔记: Study Notes.
-之初：A collection of drafts.
+碎月集：Some interesting experiences.  
+藏星：Some very favorite collections.  
+笔记: Study Notes.  
+之初：A collection of drafts.  
 
 ---
-
-
 
 ---
 最近更新
 
-藏星：[梦里什么都有]()
+藏星：[梦里什么都有](https://www.yun37.me/posts/梦里什么都有)
