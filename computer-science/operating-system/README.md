@@ -1,6 +1,6 @@
 ---
 title: Opsys-Readme
-category: Content
+category: Note
 date: 2024-03-31 19:10:17
 tags:
   - Operating System
