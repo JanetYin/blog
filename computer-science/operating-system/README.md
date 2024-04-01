@@ -8,6 +8,8 @@ tags:
 
 # Operating System
 
+重走从无到有的发现历程。
+
 \[Lect1]\([https://jyywiki.cn/OS/2024/lect1.md](https://jyywiki.cn/OS/2024/lect1.md))
 
 从操作员到操作系统

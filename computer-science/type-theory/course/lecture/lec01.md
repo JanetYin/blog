@@ -8,6 +8,8 @@ tags:
 
 # Lec01
 
+Theory of type
+
 classroom name：[https://en.wikipedia.org/wiki/Lip%C3%B3t\_Fej%C3%A9r](https://en.wikipedia.org/wiki/Lip%C3%B3t\_Fej%C3%A9r)
 
 ### Three related topics:
