@@ -1,14 +1,13 @@
 ---
 title: TT-Lec01
 category: Note
-date: 2024-03-03 19:10:17
+date: 2024-03-03T19:10:17.000Z
 tags:
   - Type Theory
+description: Theory of type
 ---
 
 # Lec01
-
-Theory of type
 
 classroom name：[https://en.wikipedia.org/wiki/Lip%C3%B3t\_Fej%C3%A9r](https://en.wikipedia.org/wiki/Lip%C3%B3t\_Fej%C3%A9r)
 
@@ -18,13 +17,14 @@ classroom name：[https://en.wikipedia.org/wiki/Lip%C3%B3t\_Fej%C3%A9r](https://
 * Category theory: [https://en.wikipedia.org/wiki/Category\_theory](https://en.wikipedia.org/wiki/Category\_theory)
 * ZFC: [https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel\_set\_theory](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel\_set\_theory)
   * mathematics is built on first-order logic and the axioms of ZF set theory
-* Cantor: let's design a theory for collections
+*   Cantor: let's design a theory for collections
+
     * we build collections using predicates
     * in type theory, the notion of predicate comes after collection
 
-  ```agda
-  { x | s.t. x + 2 > 3 }, { x | x ∌ x }
-  ```
+    ```agda
+    { x | s.t. x + 2 > 3 }, { x | x ∌ x }
+    ```
 
 ### Model of Computation:
 
